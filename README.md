@@ -270,7 +270,6 @@ Possible improvements include:
 This project is created for **educational and portfolio purposes**.
 Credit-risk predictions can involve significant financial consequences. A real-world credit assessment system should use validated data, appropriate risk-management procedures, fairness checks, explainability, security controls, and regulatory review.
 
-
 If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
 ---
 **Thank you for visiting this repository!**
