@@ -142,7 +142,7 @@ Decision Trees can model relationships through a sequence of decision rules and 
 
 ### Random Forest:
 Random Forest combines multiple decision trees and can capture more complex relationships within structured datasets.
-## 6. Model Evaluation:
+## 7. Model Evaluation:
 Model performance should be evaluated using multiple metrics rather than relying only on accuracy.
 Important classification metrics include:
 | Metric           | Purpose                                                |
@@ -173,7 +173,7 @@ print(classification_report(y_test, y_pred))
 
 ----
 
-## 7. Confusion Matrix:
+## 8. Confusion Matrix:
 The confusion matrix provides a detailed view of classification predictions.
 ```text
                     Predicted
